@@ -1,0 +1,49 @@
+.card-white {
+  background-color: #fff;
+  width: 600px;
+  padding: 10px;
+}
+
+.product-info {
+  display: flex;
+}
+
+.product-info h3 {
+  margin: 8px 0;
+}
+
+.product-info p {
+  margin: 0;
+}
+
+.product-info .btn-green {
+  display: inline-block;
+}
+
+.product-img-main {
+  width: 300px;
+  background-size: contain;
+  background-position: center;
+  position: relative;
+  background-repeat: no-repeat;
+}
+
+.product-explanation {
+  width: 100%;
+  margin-top: 10px;
+  height: 250px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.product-album {
+  display: flex;
+}
+
+.product-album img {
+  height: 62px;
+  flex-grow: 1;
+  object-fit: cover;
+  object-position: center;
+  margin: 5px 10px;
+}

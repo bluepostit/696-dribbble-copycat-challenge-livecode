@@ -1,0 +1,14 @@
+.btn-like {
+  color: #fe759f;
+  font-size: 20px;
+  position: absolute;
+  top: 15px;
+  left: 15px;
+}
+
+.btn-green {
+  background-color: green;
+  padding: 15px 30px;
+  border-radius: 2px;
+  color: white;
+}
